@@ -5,6 +5,8 @@
 <fanart>https://www.dropbox.com/s/jasmistbp351zx1/movies-logo-1.gif?dl=0</fanart>
 </item>
 
+https://raw.githubusercontent.com/kthbdaz/allukchannels/master/m3u/movies.txt
+
 <item>
 <title>SKY MOVIES FAMILY</title>
 <link>http://37.187.248.101:8080/skymovfamily.stream/index.m3u8</link>
