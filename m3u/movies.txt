@@ -1,0 +1,105 @@
+<item>
+<title>SKY MOVIES SHOWCASE</title>
+<link>http://37.187.248.101:8080/skymovshowcase.stream/index.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/0ld721qp4en57kg/th%20%2823%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/jasmistbp351zx1/movies-logo-1.gif?dl=0</fanart>
+</item>
+
+<item>
+<title>SKY MOVIES FAMILY</title>
+<link>http://37.187.248.101:8080/skymovfamily.stream/index.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/gwbtbc9iibm6eda/th%20%2824%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/jasmistbp351zx1/movies-logo-1.gif?dl=0</fanart>
+</item>
+
+<item>
+<title>SKY MOVIES DISNEY</title>
+<link>http://37.187.248.101:8080/skymovdisney.stream/index.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/rrivrrclhtbj5dj/sky_uk_movies_disney_hd.png?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/jasmistbp351zx1/movies-logo-1.gif?dl=0</fanart>
+</item>
+
+<item>
+<title>SKY MOVIES MODERN GREATS/ 80,S</title>
+<link>http://37.187.248.101:8080/skymovgreats.stream/index.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/bh3vacqek0pfooo/th%20%2826%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/jasmistbp351zx1/movies-logo-1.gif?dl=0</fanart>
+</item>
+
+<item>
+<title>SKY MOVIES THRILLER</title>
+<link>http://37.187.248.101:8080/skymovthriller.stream/index.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/lw1t155tas118sq/th%20%2827%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/isidjupm4mg0v4e/th%20%2830%29.jpg?dl=0</fanart>
+</item>
+
+<item>
+<title>SKY MOVIES SCI</title>
+<link>http://37.187.248.101:8080/skymovscifi.stream/index.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/7aoayv2wfr9awax/th%20%2828%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/jasmistbp351zx1/movies-logo-1.gif?dl=0</fanart>
+</item>
+
+<item>
+<title>SKY MOVIES SELECT</title>
+<link>http://37.187.248.101:8080/skymovselect.stream/index.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/x1ko2yhnvw10uk7/th%20%2829%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/jasmistbp351zx1/movies-logo-1.gif?dl=0</fanart>
+</item>
+
+<item>
+<title>SKY MOVIES DRAMA</title>
+<link>http://37.187.248.101:8080/flava.stream/index.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/1mwz1qg7z5q4yyg/th%20%2831%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/1720zm1qb1s82tp/th%20%2832%29.jpg?dl=0</fanart>
+</item>
+
+<item>
+<title>Sky Movies Premiere</title>
+<link>http://62.210.162.88:80/live/uk120/131604032016/2100.ts</link>
+<thumbnail>https://www.dropbox.com/s/wcnzz6x0vuc34zq/th%20%2833%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/diz9donb78gcmmt/th%20%2834%29.jpg?dl=0</fanart>
+</item>
+
+<item>
+<title>Sky Movies Comedy</title>
+<link>http://62.210.162.88:80/live/uk120/131604032016/2102.ts</link>
+<thumbnail>https://www.dropbox.com/s/yhzoreliufrqkqf/th%20%2836%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/0smjj7il99ks6t3/th%20%2835%29.jpg?dl=0</fanart>
+</item>
+
+<item>
+<title> Sky Movies Action</title>
+<link>http://62.210.162.88:80/live/uk120/131604032016/2103.ts</link>
+<thumbnail>https://www.dropbox.com/s/cj5kkcm4v1z206l/th%20%2837%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/jasmistbp351zx1/movies-logo-1.gif?dl=0</fanart>
+</item>
+
+<item>
+<title>Sky Movies Sci-Fi+</title>
+<link>http://ipsatpro.com:8000/live/05021972/05021972/515.ts</link>
+<thumbnail>https://www.dropbox.com/s/xuylpeqs606g3i4/horror_1426076916.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/3b707ca9j1mxhgi/th%20%2838%29.jpg?dl=0</fanart>
+</item>
+
+<item>
+<title>Sky Movies 24</title>
+<link>http://ipsatpro.com:8000/live/05021972/05021972/523.ts</link>
+<thumbnail>https://www.dropbox.com/s/78ocg8lsovpbws4/th%20%2839%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/pw7o0cw54h1nkbi/th%20%2840%29.jpg?dl=0</fanart>
+</item>
+
+<item>
+<title>Sky True Movies1</title>
+<link>http://ipsatpro.com:8000/live/05021972/05021972/472.ts</link>
+<thumbnail>https://www.dropbox.com/s/q0coxxy5mgbrnr8/th%20%2841%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/pw7o0cw54h1nkbi/th%20%2840%29.jpg?dl=0</fanart>
+</item>
+
+<item>
+<title>Sky True Movies 2</title>
+<link>http://ipsatpro.com:8000/live/05021972/05021972/534.ts</link>
+<thumbnail>https://www.dropbox.com/s/q0l0y1na7twjm9n/th%20%2842%29.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/pw7o0cw54h1nkbi/th%20%2840%29.jpg?dl=0</fanart>
+</item>
+
